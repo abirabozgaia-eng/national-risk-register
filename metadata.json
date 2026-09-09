@@ -1,0 +1,6 @@
+{
+  "name": "السجل الوطني للمخاطر - دولة ليبيا",
+  "description": "منصة تفاعلية متكاملة للسجل الوطني للمخاطر بدولة ليبيا لصالح المركز الوطني لإدارة الطوارئ والأزمات والكوارث، متوافقة مع إطار سنداي وتصنيف UNDRR/ISC ومصفوفة المخاطر 5×5",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
